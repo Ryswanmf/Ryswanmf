@@ -1,4 +1,3 @@
-# About Me:
 ## About Me<br><br>Hi! I'm a developer who is passionate about building modern web applications. I enjoy learning new technologies, solving problems, and creating useful digital solutions using tools like Laravel, React, and modern web technologies.
 
 
