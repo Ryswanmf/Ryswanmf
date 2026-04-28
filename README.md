@@ -1,4 +1,4 @@
-## <br><br>Hi! I'm a developer who is passionate about building modern web applications. I enjoy learning new technologies, solving problems, and creating useful digital solutions using tools like Laravel, React, and modern web technologies.
+## <br><br>Hi! I'm a developer who is passionate about building modern web applications. I enjoy learning new technologies, solving problems, and creating useful digital solutions using tools like Laravel, React, and modern web technologies..
 
 ## Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/Cryswann) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/cryswann) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/mriswanmufid) [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@cryswann) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/starfish) 
